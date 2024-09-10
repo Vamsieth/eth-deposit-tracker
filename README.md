@@ -5,8 +5,8 @@ A robust and efficient Ethereum Deposit Tracker to monitor and record ETH deposi
 ## Clone the repository
 
 ```
-git clone https://github.com/FilipeMarch/ethereum-deposit-tracker
-cd ethereum-deposit-tracker
+git clone https://github.com/Vamsieth/eth-deposit-tracker
+cd eth-deposit-tracker
 ```
 
 ## Create a Docker network
